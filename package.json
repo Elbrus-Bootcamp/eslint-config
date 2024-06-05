@@ -1,0 +1,24 @@
+{
+  "name": "@elbrus/eslint-config",
+  "version": "1.0.0",
+  "description": "Eslint configs from Elbrus Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "author": "Alexander Knyazev @grentank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/eslint-config#readme"
+}
