@@ -2,9 +2,10 @@
   "name": "@elbrus/eslint-config",
   "version": "1.0.0",
   "description": "Eslint configs from Elbrus Bootcamp",
+  "type": "module",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "peerDependencies": {
+    "eslint": ">= 9"
   },
   "repository": {
     "type": "git",
